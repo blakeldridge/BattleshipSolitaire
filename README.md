@@ -12,10 +12,12 @@ Choose the size of the board, number of ships and max size of ships, and have en
 
 ## 🎥 Demo  
 **Puzzle Sheet**
-![10x10 puzzle sheet](image-1.png)
+
+<img src="image-1.png" alt="Puzzle Sheet" width="400">
 
 **Answer Sheet**
-![10x10 puzzle sheet solved](image-2.png)
+
+<img src="image-2.png" alt="Answer Sheet" width="400">
 
 ---
 
